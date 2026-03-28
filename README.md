@@ -69,7 +69,7 @@ Internet → WAF → DMZ (10.0.1.0/24) → Perimeter Firewall → App Tier (10.0
  
 | Diagram | Description |
 |---------|-------------|
-| [`Network_Architecture_Diagram.png`](/Network Architecture Diagram.png) | Full network topology with zones, firewalls, and gateways |
+| [`Network_Architecture_Diagram.png`](/Network%20Architecture%20Diagram.png) | Full network topology with zones, firewalls, and gateways |
 | [`Data_Flow_Diagram.png`](/Data%20Flow%20Diagram.png) | Data flow across customer, web, app, database, and payment processor |
  
 ---
