@@ -64,14 +64,14 @@ Internet → WAF → DMZ (10.0.1.0/24) → Perimeter Firewall → App Tier (10.0
 | NIST SP 800-63B | MFA, short-lived credentials | ✅ |
 
 ---
-
+ 
 ## Diagrams
-
+ 
 | Diagram | Description |
 |---------|-------------|
-| [`Network Architecture Diagram.png`](Network Architecture Diagram.png) | Full network topology with zones, firewalls, and gateways |
-| [`Data Flow Diagram.png`](Data Flow Diagram.png) | Data flow across customer, web, app, database, and payment processor |
-
+| [`Network_Architecture_Diagram.png`](/Network_Architecture_Diagram.png) | Full network topology with zones, firewalls, and gateways |
+| [`Data_Flow_Diagram.png`](/Data_Flow_Diagram.png) | Data flow across customer, web, app, database, and payment processor |
+ 
 ---
 
 ## Stack
